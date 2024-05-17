@@ -8,8 +8,8 @@ int main() {
   scanf("%d",&b);
 
   printf("sum is : %d",a + b);
-  printf("sub is : %d\n",a - b);
   printf("Mul is : %d\n",a*b);
+  printf("subtraction of: %d\n",a-b);
 
   return 0;
 }
