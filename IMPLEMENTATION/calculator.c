@@ -11,7 +11,7 @@ int main() {
   printf("sum is : %d",a + b);
   printf("sub is : %d\n",a - b);
   printf("multiply is : %d\n",a * b);
-  printf("Power of a and b is :\n",pow(b,a));
+  printf("Power of a and b is : %f \n",pow(b,a));
   printf("Mul is : %d\n",a*b);
   printf("subtraction of: %d\n",a-b);
 
